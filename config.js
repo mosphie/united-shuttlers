@@ -12,6 +12,6 @@ window.CLUB = {
   supabaseUrl: 'https://oxcbvigblvbzjbjoquvq.supabase.co',
   supabaseKey: 'sb_publishable_aAd7NQukNdb5u6SaCOBuJQ_YwfCWQZQ',
   demoFallback: true,   // set to false before real members join, so a failed email never falls back to a demo code
-  version: '1.8.1',                           // raise this on every release
+  version: '1.9.0',                           // raise this on every release
   build: '2026-11-28'
 };
