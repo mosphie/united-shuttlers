@@ -13,6 +13,6 @@ window.CLUB = {
   supabaseKey: 'sb_publishable_aAd7NQukNdb5u6SaCOBuJQ_YwfCWQZQ',
   demoFallback: false,  // keep false: a failed email must never fall back to a demo code
   demo: false,          // keep false for the real club. true = local test mode with no database
-  version: '2.6.4',                           // raise this on every release
+  version: '2.7.1',                           // raise this on every release
   build: '2026-11-28'
 };
